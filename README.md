@@ -3,6 +3,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2. It is used to demonstrate use of knockout binding in the angular 7.
 
+It will help to set up a path to  migrate existing knockout pages to angular application.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
