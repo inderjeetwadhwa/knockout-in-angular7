@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { KnockoutContainerComponent } from './knockout-container/knockout-container.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    KnockoutContainerComponent
   ],
   imports: [
     BrowserModule,
