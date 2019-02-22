@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # AngularKnockout
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2. It is used to demonstrate use of knockout binding in the angular 7.
 
 ## Development server
 
@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # knockout-in-angular7
 Knockout binding used in the angular 7
->>>>>>> f0cdf4e3a1a3f562100f7f175a3580a88800cccf
+f
